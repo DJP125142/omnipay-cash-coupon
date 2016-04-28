@@ -1,0 +1,33 @@
+{
+    "name": "root/omnipay-cash-coupon",
+    "description": "wechat cash coupon",
+    "type": "library",
+    "homepage": "https://github.com/vace/omnipay-cash-coupon",
+    "autoload": {
+      "psr-4": {
+        "Omnipay\\CashCoupon\\": "src/"
+      }
+    },
+    "require": {
+        "omnipay/common": "~2.0"
+    },
+    "keywords": [
+      "wechat",
+      "gateway",
+      "php",
+      "omnipay",
+      "pay",
+      "sdk",
+      "app",
+      "payment",
+      "purchase",
+      "微信支付"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vace",
+            "email": "ocdo@qq.com"
+        }
+    ]
+}
